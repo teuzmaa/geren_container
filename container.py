@@ -81,3 +81,4 @@ while True:
         break
     else:
         print("Opção inválida. Escolha novamente.")
+        print('Fim da atividade avaliava 1. Controle de versão com Git')
